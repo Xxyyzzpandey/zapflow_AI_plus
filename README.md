@@ -206,10 +206,6 @@ New payment from {{response.email}} of {{response.amount}}
 
 # 🔮 Future Improvements
 
-- Drag & drop workflow builder
-- OAuth integrations
-- Workflow analytics dashboard
-- Retry & error handling
 - Automation marketplace
 - AI workflow suggestions
 
@@ -218,8 +214,6 @@ New payment from {{response.email}} of {{response.amount}}
 # 👨‍💻 Author
 
 **Ankit Pandey**
-
-Full Stack Developer | MERN Developer | Security Enthusiast 
 
 ---
 
