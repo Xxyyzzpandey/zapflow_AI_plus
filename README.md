@@ -1,5 +1,9 @@
 # ⚡ ZapFlow AI
 
+## 🌐 Live Demo
+Experience the power of AI-driven automation here:
+**[👉 Live Link: zapflow-ai.vercel.app](https://zapflow-ai-plue.vercel.app/)** *(Note:using a free tier,  the first load(backend) may take a few seconds as the server wakes up.)*
+
 **ZapFlow AI** is a next-generation workflow automation platform that bridges the gap between natural language intent and robust technical execution. Whether you prefer the speed of **AI-driven generation** or the granular control of a **Manual Builder**, ZapFlow allows you to create complex, multi-step workflows that automate your busy work.
 
 
